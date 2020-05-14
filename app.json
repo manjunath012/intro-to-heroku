@@ -7,5 +7,5 @@
   "repository": "https://github.com/manjunath012/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
-  ]
+  ] 
 }
